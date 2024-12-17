@@ -1,0 +1,41 @@
+_repo: Poems-from-the-divan-of-Hafiz_74883
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bell, Gertrude Lowthian
+    alias: Bell, Gertrude Margaret Lowthian
+    birthdate: 1868
+    deathdate: 1926
+    gutenberg_agent_id: '46514'
+    url: http://www.gutenberg.org/2009/agents/46514
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Bell
+creator:
+  author:
+    agent_name: Hafiz, active 14th century
+    aliases:
+    - Hafez
+    - Hafis
+    - Shams-ud-Din Mohammed
+    - Khorezmi, Khafiz
+    gutenberg_agent_id: '39907'
+    url: http://www.gutenberg.org/2009/agents/39907
+description: ''
+gutenberg_issued: '2024-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74883'
+language: en
+pgterms:marc904: https://archive.org/details/poemsfromdivanof00hafiiala
+pgterms:marc905: 20231221092151hafiz
+pgterms:marc906: '1897'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bHeinemann, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Poems from the divan of Hafiz
+url: http://www.gutenberg.org/ebooks/74883
